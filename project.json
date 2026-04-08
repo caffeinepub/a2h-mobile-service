@@ -1,0 +1,21 @@
+{
+  "overview": "A professional single-page business website for A2H Mobile Service Centre, a mobile phone repair shop in Melvisharam, Tamil Nadu. Features a dark/black theme with orange and white accents, complete services showcase, supported brands, gallery, and contact information.",
+  "features": [
+    "Dark theme with orange and white accents",
+    "Hero section with banner image and Call Now button",
+    "Services showcase with 8 repair services including PCB/IC level",
+    "Supported brands section (iPhone, OPPO, Samsung, Mi, Vivo, Realme)",
+    "Work gallery with banner image",
+    "Contact section with address and phone",
+    "Mobile-responsive design with hamburger menu"
+  ],
+  "category": "business-website",
+  "tags": [
+    "mobile-repair",
+    "business",
+    "dark-theme",
+    "single-page",
+    "service-centre"
+  ],
+  "last_updated": "2026-04-08T17:52:53.622Z"
+}
